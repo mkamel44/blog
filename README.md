@@ -1,6 +1,6 @@
 # blog
 
-this is vedio how to use blog
+this is video how to use blog
 https://www.youtube.com/watch?v=vDWW4SkUV18
 
 -------------
