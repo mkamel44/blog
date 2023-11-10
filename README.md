@@ -45,7 +45,7 @@ To install locally
 <br>
 6- set database name and password in .env
 <br>
-5- php artisan serv
+7- php artisan serv
 <br>
 
 note: it is better to run on xampp php version 7.2
